@@ -1,2 +1,2 @@
 # SimpleProject
-Simple Prediction projeccts
+Simple Prediction projects
